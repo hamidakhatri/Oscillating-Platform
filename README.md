@@ -1,5 +1,5 @@
 # Oscillating-Platform
- Creating an oscillating platform for the player to interact with.
+ Created an oscillating platform for the player to interact with.
 
 Created a third-person platformer starter scene from this module's Unity asset package. Built a rotator component within the scene by implementing C# scripting and vector mathematics to the rotator component. Also built an oscialltign platform by implementing C# scripting and vector mathematics to it. 
 
